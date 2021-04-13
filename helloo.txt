@@ -1,0 +1,28 @@
+<div class="container">
+        <h1 class="title">My Portfolio</h1>
+        <hr>
+        <img src="./images/SPOT.jpg" alt="" class="pfp">
+        <h2 class="text"> <b> My name is Zack Agba Unimashi</b> 
+            I am a 12 year old Front-End web developer 
+            My Goal:I'm aspiring to try and make a change inspiring everyone and getting more kids like me into tech.
+            If you wish to support me ;)
+            Here are my social media pages
+           <a href="https://www.youtube.com/channel/UCmQvY8vLKNGdNKVWOgiSdjQ?view_as=subscriber"><i class="fab fa-youtube">My youtube channel</i></a>
+            <a href="https://twitter.com/KrxzyN"><i class="fab fa-twitter">My twitter</i></a>
+            
+        
+        
+        </h2>
+    </div>
+ <a class="nav-link" href="">
+                            <li>Home</li>
+                        </a>
+                        <a class="nav-link" href="">
+                            <li>About</li>
+                        </a>
+                        <a class="nav-link" href="">
+                            <li>Contact Me</li>
+                        </a>
+                        <a class="nav-link" href="">
+                            <li>Projects</li>
+                        </a>

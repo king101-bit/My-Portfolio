@@ -1,0 +1,44 @@
+:root {
+   --puple: #171123;
+   --pink: #ED217C;
+   --nav-color: #273469;
+}
+
+#navbar {
+   background: var(--puple) !important;
+}
+
+.fa-arrow-up {
+   font-size: 28px;
+   color: #F8F32B !important;
+   justify-self: flex-end !important;
+   align-self: flex-end !important;
+   text-align: flex-end !important;
+
+}
+
+main {
+   background: var(--puple);
+}
+
+.txt {
+   color: var(--pink);
+}
+
+.navbar-brand {
+   color: var(--pink) !important;
+}
+
+ul.nav li a,
+ul.nav li a:visited {
+   color: var(--pink) !important;
+}
+
+ul.nav li a:hover,
+ul.nav li a:active {
+   color: var(--pink) !important;
+}
+
+ul.nav li.active a {
+   color: var(--pink) !important;
+}
